@@ -1,0 +1,19 @@
+<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:BookStore.Client" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero2" x:Class="BookStore.Client.App" StartupUri="MainWindow.xaml" d1p1:Ignorable="d">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Design/TextBoxDesign.xaml"/>
+                <ResourceDictionary Source="Design/LabelDesign.xaml"/>
+                <ResourceDictionary Source="Design/DatePickerDesign.xaml"/>
+                <ResourceDictionary Source="Design/ButtonDesign.xaml"/>
+                <ResourceDictionary Source="Design/DataGridDesign.xaml"/>
+                <ResourceDictionary Source="Design/ComboBoxDesign.xaml"/>
+                <ResourceDictionary Source="Design/ListBoxDesign.xaml"/>
+                <ResourceDictionary Source="Assets/LightTheme.xaml"/>
+                <ResourceDictionary Source="Assets/Icons.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <vm:ViewModelLocator xmlns:vm="clr-namespace:BookStore.Client.ViewModel" x:Key="Locator" d:IsDataSource="True" />
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

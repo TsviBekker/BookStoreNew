@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a058254f-6f10-4e86-b406-ddc412d3e265": {
+      "ProjectGuid": "a058254f-6f10-4e86-b406-ddc412d3e265",
+      "DisplayName": "BookStore.Client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

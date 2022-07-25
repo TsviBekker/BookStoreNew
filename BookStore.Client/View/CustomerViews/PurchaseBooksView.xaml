@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="BookStore.Client.View.CustomerViews.PurchaseBooksView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BookStore.Client.View.CustomerViews"
+             mc:Ignorable="d" 
+             x:Name="_window"
+             d:DesignHeight="450" d:DesignWidth="800"
+              DataContext="{Binding Source={StaticResource Locator}, Path=PurchaseBooks}">
+
+    <DataGrid x:Name="DataGrid"
+              IsReadOnly="True"
+              AutoGenerateColumns="False"
+              ItemsSource="{Binding BooksCollection, UpdateSourceTrigger=PropertyChanged}"
+              Margin="10">
+        <DataGrid.Columns>
+            <DataGridTextColumn 
+                Header="Title"
+                MinWidth="100"
+                Binding="{Binding Title}"
+                Width="*"/>
+            <DataGridTextColumn 
+                Header="Author"
+                MinWidth="100"
+                Binding="{Binding AuthorName}"
+                Width="*"/>
+            <DataGridTextColumn 
+                Header="Publication Date"
+                MinWidth="100"
+                Binding="{Binding PublicationDate,StringFormat={}{0:MM/dd/yyyy}}"
+                Width="*"/>
+            <DataGridTextColumn 
+                Header="Price"
+                MinWidth="100"
+                Binding="{Binding BasePrice}"
+                Width="*"/>
+            <DataGridTextColumn 
+                Header="Genres"
+                MinWidth="100"
+                Binding="{Binding GenresAsString}"
+                Width="*"/>
+        </DataGrid.Columns>
+        <DataGrid.RowDetailsTemplate>
+            <DataTemplate>
+                <DockPanel Height="300">
+                    <Image DockPanel.Dock="Left" 
+                           Source="{Binding ProductImageSource}"/>
+                    <StackPanel Orientation="Vertical" 
+                                Margin="10">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Summary: " 
+                                       FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Summary}" 
+                                       TextWrapping="Wrap" 
+                                       Width="750" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Edition: " 
+                                       FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Edition}" />
+                        </StackPanel>
+                        <Button Style="{StaticResource BTNShop}" 
+                                HorizontalAlignment="Left" 
+                                Margin="0 10"
+                                Width="150"
+                                Command="{Binding DataContext.AddToCartCommand, ElementName=_window}" 
+                                CommandParameter="{Binding}" 
+                                Content="Add To">
+                        </Button>
+                    </StackPanel>
+                </DockPanel>
+            </DataTemplate>
+        </DataGrid.RowDetailsTemplate>
+    </DataGrid>
+</UserControl>

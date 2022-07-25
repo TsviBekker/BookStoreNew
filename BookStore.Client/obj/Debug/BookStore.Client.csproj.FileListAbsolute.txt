@@ -1,0 +1,163 @@
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Client.exe.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Client.exe
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Client.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Models.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Server.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\CommonServiceLocator.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Models.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Server.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.AssemblyReference.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\MainWindow.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\App.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client_MarkupCompile.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client_MarkupCompile.lref
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\App.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\MainWindow.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.g.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.Properties.Resources.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.GenerateResource.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.CoreCompileInputs.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.CopyComplete
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.exe
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Data.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Data.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Data.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\PrimaryView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\PrimaryView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Server.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\PasswordView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\PasswordView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\ManagerMainView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\ManagerMainView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddBooksView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddBooksView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\TextBoxDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\LabelDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\DatePickerDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\ButtonDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\Prism.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\Prism.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\Prism.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\DataGridDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Assets\Icons.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Assets\LightTheme.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddJournalsView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\JournalStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddJournalsView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\JournalStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\BookStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\BookStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeBookStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeMainView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeBookStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeMainView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeJournalStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeJournalStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\CustomerMainView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\CustomerMainView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseBooksView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseBooksView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseJournalsView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseJournalsView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\ShoppingCartView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\ShoppingCartView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\ComboBoxDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\Design\ListBoxDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Client.exe.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Client.exe
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Client.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Data.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Models.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Server.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\CommonServiceLocator.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\Prism.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Data.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Data.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Models.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Server.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\BookStore.Server.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\Prism.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\Prism.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.AssemblyReference.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Assets\Icons.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Assets\LightTheme.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\ButtonDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\ComboBoxDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\DataGridDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\DatePickerDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\LabelDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\ListBoxDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\Design\TextBoxDesign.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddBooksView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\PrimaryView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\MainWindow.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\CustomerMainView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseBooksView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseJournalsView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\ShoppingCartView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeBookStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeJournalStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeMainView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddBooksView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddJournalsView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\JournalStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\ManagerMainView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\BookStorageView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\PasswordView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\PrimaryView.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\App.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client_MarkupCompile.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client_MarkupCompile.lref
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\App.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\MainWindow.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\CustomerMainView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseBooksView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\PurchaseJournalsView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\CustomerViews\ShoppingCartView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeBookStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeJournalStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\EmployeeViews\EmployeeMainView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\AddJournalsView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\JournalStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\ManagerMainView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\BookStorageView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\View\ManagerViews\PasswordView.baml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.g.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.Properties.Resources.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.GenerateResource.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.CoreCompileInputs.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.CopyComplete
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.exe
+C:\Users\Tsviki\OneDrive\שולחן העבודה\Projects & הגשות\BookStore\BookStore.Client\obj\Debug\BookStore.Client.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Client.exe.manifest
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\bin\Debug\BookStore.Client.application
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.exe.manifest
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Client\obj\Debug\BookStore.Client.application

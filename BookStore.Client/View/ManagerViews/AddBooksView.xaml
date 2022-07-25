@@ -1,0 +1,103 @@
+﻿<UserControl x:Class="BookStore.Client.View.ManagerViews.AddBooksView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+              DataContext="{Binding Source={StaticResource Locator}, Path=AddBooks}">
+    <Grid Background="AliceBlue">
+        <!--<Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>-->
+        <WrapPanel>
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Book Title" 
+                       Margin="5" 
+                       Width="150"
+                       Style="{StaticResource LabelTheme1}"/>
+                    <TextBox Width="150" Margin="5"
+                         Text="{Binding BookTitle,Mode=TwoWay}"
+                         Style="{StaticResource TBXTheme2}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Author" 
+                       Margin="5" 
+                       Width="150"
+                       Style="{StaticResource LabelTheme1}"/>
+                    <TextBox Width="150" Margin="5"
+                         Text="{Binding BookAuthor}"
+                         Style="{StaticResource TBXTheme2}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label x:Name="lblPD"
+                    Content="Publication Date" 
+                       Height="40"
+                       Margin="5" 
+                       Width="150"
+                       Style="{StaticResource LabelTheme1}"/>
+                    <DatePicker Width="150" Margin="5" 
+                            SelectedDate="{Binding PublicationDate}"
+                            FontSize="18"
+                            Style="{StaticResource DPTheme}"/>
+                </StackPanel>
+                <Label Content="Summary" 
+                           Margin="5" 
+                           Width="150"
+                           Height="40"
+                           Style="{StaticResource LabelTheme1}" />
+                <TextBox Margin="5" Text="{Binding BookSummary}"
+                         Height="150" TextWrapping="Wrap" Width="300"
+                         FontSize="12"/>
+                <Button Content="Add/Update Book" 
+                        Grid.Row="1" 
+                        Command="{Binding Path=AddBookCommand}" 
+                        Style="{StaticResource BTNTheme}"
+                        Margin="10" 
+                        Width="200"
+                        Height="50"/>
+            </StackPanel>
+
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Edition" 
+                       Margin="5" 
+                       Width="150"
+                       Style="{StaticResource LabelTheme1}"/>
+                    <TextBox Width="150" Margin="5"
+                         Text="{Binding BookEdition}"
+                         Style="{StaticResource TBXTheme2}"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Price" 
+                       Margin="5" 
+                       Width="150"
+                       Style="{StaticResource LabelTheme1}"/>
+                    <TextBox Width="150" Margin="5"
+                         Text="{Binding BookPrice}"
+                         Style="{StaticResource TBXTheme2}"/>
+                </StackPanel>
+                <Button Content="Select Image"
+                        Style="{StaticResource BTNTheme}"
+                        Margin="10" Height="30"
+                        Width="150"
+                        Command="{Binding SelectImageCommand}"/>
+                <Image Source="{Binding ImagePath}"
+                       Height="200" Width="300"/>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Genres"
+                           Margin="5" 
+                           Height="40"
+                           Width="150"
+                           Style="{StaticResource LabelTheme1}"/>
+                <ContentControl Content="{Binding CustomListBox}"/>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</UserControl>

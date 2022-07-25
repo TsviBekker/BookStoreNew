@@ -1,0 +1,15 @@
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Server.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Server.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Models.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Models.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\obj\Debug\BookStore.Server.csproj.AssemblyReference.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\obj\Debug\BookStore.Server.csproj.CoreCompileInputs.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\obj\Debug\BookStore.Server.csproj.CopyComplete
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\obj\Debug\BookStore.Server.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\obj\Debug\BookStore.Server.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Data.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Data.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Data.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\BookStore.Server.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Server\bin\Debug\Newtonsoft.Json.xml

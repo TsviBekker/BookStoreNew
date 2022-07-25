@@ -1,0 +1,6 @@
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Models\bin\Release\BookStore.Models.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Models\bin\Release\BookStore.Models.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Models\obj\Release\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Models\obj\Release\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Models\obj\Release\BookStore.Models.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Models\obj\Release\BookStore.Models.pdb
