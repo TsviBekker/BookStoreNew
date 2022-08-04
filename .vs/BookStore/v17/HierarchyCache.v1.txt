@@ -1,0 +1,375 @@
+﻿++Solution 'BookStore' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:BookStore.sln
+++BookStore.Testing
+i:{00000000-0000-0000-0000-000000000000}:BookStore.Testing
+++Properties
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.testing\properties\
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\properties\
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\properties\
+++References
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++Discount
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.testing\discount\
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\cart\discount\
+++app.config
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.testing\app.config
+++packages.config
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.testing\packages.config
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\packages.config
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\packages.config
+++AssemblyInfo.cs
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.testing\properties\assemblyinfo.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\properties\assemblyinfo.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\properties\assemblyinfo.cs
+++BookStore.Client
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+i:{00000000-0000-0000-0000-000000000000}:BookStore.Client
+++BookStore.Service
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{00000000-0000-0000-0000-000000000000}:BookStore.Service
+++Microsoft.VisualStudio.TestPlatform.TestFramework
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+++Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+++System
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++System.Core
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++DiscountTest.cs
+i:{4e986513-35da-4e59-9abf-c19fabc6f56c}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.testing\discount\discounttest.cs
+++Assets
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\
+++Design
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\
+++ButtonDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\buttondesign.xaml
+++ComboBoxDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\comboboxdesign.xaml
+++DataGridDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\datagriddesign.xaml
+++DatePickerDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\datepickerdesign.xaml
+++LabelDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\labeldesign.xaml
+++ListBoxDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\listboxdesign.xaml
+++TextBoxDesign.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\design\textboxdesign.xaml
+++View
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\
+++CustomerViews
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\
+++EmployeeViews
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\
+++ManagerViews
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\
+++AddBooksView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\addbooksview.xaml
+++AddJournalsView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\addjournalsview.xaml
+++BookStorageView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\bookstorageview.xaml
+++BookStorageView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\bookstorageview.xaml.cs
+++JournalStorageView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\journalstorageview.xaml
+++ManagerMainView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\managermainview.xaml
+++PasswordView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\passwordview.xaml
+++PrimaryView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\primaryview.xaml
+++ViewModel
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\
+++CustomerViewModel
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\customerviewmodel\
+++EmployeeViewModel
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\employeeviewmodel\
+++ManagerViewModel
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\managerviewmodel\
+++AddBooksViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\managerviewmodel\addbooksviewmodel.cs
+++AddJournalsViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\managerviewmodel\addjournalsviewmodel.cs
+++BookStorageViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\managerviewmodel\bookstorageviewmodel.cs
+++JournalStorageViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\managerviewmodel\journalstorageviewmodel.cs
+++ManagerMainViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\managerviewmodel\managermainviewmodel.cs
+++PasswordViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\passwordviewmodel.cs
+++MainViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\mainviewmodel.cs
+++PrimaryViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\primaryviewmodel.cs
+++ViewModelLocator.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\viewmodellocator.cs
+++App.config
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\app.config
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\app.config
+++App.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\app.xaml
+++App.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\app.xaml.cs
+++BookStore.Client_TemporaryKey.pfx
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\bookstore.client_temporarykey.pfx
+++Double-J-Design-Ravenna-3d-Books.ico
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\double-j-design-ravenna-3d-books.ico
+++MainWindow.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\mainwindow.xaml
+++MainWindow.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\mainwindow.xaml.cs
+++Resources.resx
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\properties\resources.resx
+++Settings.settings
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\properties\settings.settings
+++CommonServiceLocator
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++EntityFramework
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++EntityFramework.SqlServer
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++GalaSoft.MvvmLight
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++GalaSoft.MvvmLight.Extras
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++GalaSoft.MvvmLight.Platform
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++Microsoft.CSharp
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++Microsoft.Extensions.DependencyInjection
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++PresentationCore
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++PresentationFramework
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++PresentationFramework.Aero2
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++Prism
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Buffers
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.ComponentModel.DataAnnotations
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++System.Data
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++System.Data.DataSetExtensions
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++System.Diagnostics.DiagnosticSource
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Memory
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Net.Http
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++System.Numerics
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Numerics.Vectors
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Runtime.CompilerServices.Unsafe
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Threading.Tasks.Extensions
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Windows.Interactivity
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++System.Xml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++System.Xml.Linq
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:
+++WindowsBase
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++books-stack-of-three.png
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\books-stack-of-three.png
+++Icons.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\icons.xaml
+++LightTheme.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\lighttheme.xaml
+++magazine.png
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\magazine.png
+++return.png
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\return.png
+++shopping-cart.png
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\shopping-cart.png
+++Storage_icon_of_three_disks.svg.png
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\assets\storage_icon_of_three_disks.svg.png
+++CustomerMainView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\customermainview.xaml
+++PurchaseBooksView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\purchasebooksview.xaml
+++PurchaseJournalsView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\purchasejournalsview.xaml
+++ShoppingCartView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\shoppingcartview.xaml
+++EmployeeBookStorageView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\employeebookstorageview.xaml
+++EmployeeJournalStorageView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\employeejournalstorageview.xaml
+++EmployeeMainView.xaml
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\employeemainview.xaml
+++AddBooksView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\addbooksview.xaml.cs
+++AddJournalsView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\addjournalsview.xaml.cs
+++JournalStorageView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\journalstorageview.xaml.cs
+++ManagerMainView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\managermainview.xaml.cs
+++PasswordView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\managerviews\passwordview.xaml.cs
+++PrimaryView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\primaryview.xaml.cs
+++CustomerMainViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\customerviewmodel\customermainviewmodel.cs
+++PurchaseBooksViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\customerviewmodel\purchasebooksviewmodel.cs
+++PurchaseJournalsViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\customerviewmodel\purchasejournalsviewmodel.cs
+++ShoppingCartViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\customerviewmodel\shoppingcartviewmodel.cs
+++EmployeeBookStorageViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\employeeviewmodel\employeebookstorageviewmodel.cs
+++EmployeeJournalStorageViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\employeeviewmodel\employeejournalstorageviewmodel.cs
+++EmployeeMainViewModel.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\viewmodel\employeeviewmodel\employeemainviewmodel.cs
+++Resources.Designer.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\properties\settings.designer.cs
+++CustomerMainView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\customermainview.xaml.cs
+++PurchaseBooksView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\purchasebooksview.xaml.cs
+++PurchaseJournalsView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\purchasejournalsview.xaml.cs
+++ShoppingCartView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\customerviews\shoppingcartview.xaml.cs
+++EmployeeBookStorageView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\employeebookstorageview.xaml.cs
+++EmployeeJournalStorageView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\employeejournalstorageview.xaml.cs
+++EmployeeMainView.xaml.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\view\employeeviews\employeemainview.xaml.cs
+++Context
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\
+++Migrations
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\
+++Repositories
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\
+++BookRepo
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\bookrepo\
+++Generic
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\generic\
+++JournalRepo
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\journalrepo\
+++Services
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\
+++Cart
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\cart\
+++DiscountService.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\cart\discount\discountservice.cs
+++IDiscountService.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\cart\discount\idiscountservice.cs
+++Cart.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\cart\cart.cs
+++ICart.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\cart\icart.cs
+++DataService
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\dataservice\
+++BookDataService.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\dataservice\bookdataservice.cs
+++IDataService.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\dataservice\idataservice.cs
+++JournalDataService.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\dataservice\journaldataservice.cs
+++File
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\services\file\
+++Models
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\
+++BookStoreContext.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\bookstorecontext.cs
+++202207261246409_Initial_Code_First_Migration.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202207261246409_initial_code_first_migration.cs
+++202207261558124_Updated-Guid_To_Int_ID.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202207261558124_updated-guid_to_int_id.cs
+++202208011226274_Single_Book_Genre.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202208011226274_single_book_genre.cs
+++202208011234486_Single_Journal_Genre.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202208011234486_single_journal_genre.cs
+++Configuration.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\configuration.cs
+++BookRepository.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\bookrepo\bookrepository.cs
+++IBookRepository.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\bookrepo\ibookrepository.cs
+++GenericRepository.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\generic\genericrepository.cs
+++IGenericRepository.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\generic\igenericrepository.cs
+++IJournalRepository.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\journalrepo\ijournalrepository.cs
+++JournalRepository.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\repositories\journalrepo\journalrepository.cs
+++Enums
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\enums\
+++Book.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\book.cs
+++Journal.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\journal.cs
+++ProductBase.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\productbase.cs
+++202207261246409_Initial_Code_First_Migration.designer.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202207261246409_initial_code_first_migration.designer.cs
+++202207261246409_Initial_Code_First_Migration.resx
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202207261246409_initial_code_first_migration.resx
+++202207261558124_Updated-Guid_To_Int_ID.designer.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202207261558124_updated-guid_to_int_id.designer.cs
+++202207261558124_Updated-Guid_To_Int_ID.resx
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202207261558124_updated-guid_to_int_id.resx
+++202208011226274_Single_Book_Genre.designer.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202208011226274_single_book_genre.designer.cs
+++202208011226274_Single_Book_Genre.resx
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202208011226274_single_book_genre.resx
+++202208011234486_Single_Journal_Genre.designer.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202208011234486_single_journal_genre.designer.cs
+++202208011234486_Single_Journal_Genre.resx
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\migrations\202208011234486_single_journal_genre.resx
+++BookGenre.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\enums\bookgenre.cs
+++JournalFrequency.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\enums\journalfrequency.cs
+++JournalGenre.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\models\enums\journalgenre.cs
+++BookStoreContextFactory.cs
+i:{47c956f6-da3a-46d6-b411-571e0e91217d}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.service\context\bookstorecontextfactory.cs
+++Autofac
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:
+++DISource.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\disource.cs
+++NewFolder1
+++Variables
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\variables\
+++UpdateFlag.cs
+i:{a058254f-6f10-4e86-b406-ddc412d3e265}:c:\users\tsviki\onedrive\שולחן העבודה\bookstore\bookstore.client\variables\updateflag.cs

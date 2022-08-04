@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Autofac.Core;
+using BookStore.Client.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +22,11 @@ namespace BookStore.Client
     /// </summary>
     public partial class MainWindow : Window
     {
+        //private readonly Container container;
         public MainWindow()
         {
             InitializeComponent();
+            //this.DataContext = container.Resolve<MainViewModel>();
         }
     }
 }

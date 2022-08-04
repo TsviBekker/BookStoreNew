@@ -13,22 +13,14 @@ namespace BookStore.Client.ViewModel.EmployeeViewModel
         public RelayCommand ReviewBooksCommand { get; set; }
         public RelayCommand ReviewJournalsCommand { get; set; }
         public RelayCommand ReturnCommand { get; set; }
+
+        //Ctor
         public EmployeeMainViewModel()
         {
-            ReviewBooksCommand = new RelayCommand(ReviewBooks);
-            ReviewJournalsCommand = new RelayCommand(ReviewJournals);
-            ReturnCommand = new RelayCommand(Return);
-        }
-        private void Return() => MessengerInstance.Send<UserControl>(new PrimaryView());
-        private void ReviewJournals()
-        {
-            MessengerInstance.Send<bool>(true, "journal");
-            CurrentContent = new EmployeeJournalStorageView();
-        }
-        private void ReviewBooks()
-        {
-            MessengerInstance.Send<bool>(true, "book");
-            CurrentContent = new EmployeeBookStorageView();
+            ReturnCommand = new RelayCommand(() => MessengerInstance.Send<UserControl>(new PrimaryView()));
+
+            ReviewBooksCommand = new RelayCommand(() => CurrentContent = new EmployeeBookStorageView());
+            ReviewJournalsCommand = new RelayCommand(() => CurrentContent = new EmployeeJournalStorageView());
         }
     }
 }

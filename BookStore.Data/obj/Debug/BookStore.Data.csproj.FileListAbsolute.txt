@@ -47,3 +47,10 @@ C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\De
 C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\System.Text.Json.xml
 C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\BookStore.Service.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\BookStore.Service.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Data\bin\Debug\BookStore.Service.dll.config

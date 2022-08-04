@@ -3,11 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:BookStore.Client.View.ManagerViews"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800"
              x:Name="_window"
-             DataContext="{Binding Source={StaticResource Locator}, Path=JournalStorage}">
+                          xmlns:local="clr-namespace:BookStore.Client"
+             xmlns:viewmodels="clr-namespace:BookStore.Client.ViewModel.ManagerViewModel"
+             DataContext="{local:DISource Type=viewmodels:JournalStorageViewModel}">
     <DataGrid x:Name="DataGrid"
               IsReadOnly="True"
               AutoGenerateColumns="False"
@@ -47,7 +48,7 @@
             <DataGridTextColumn 
                 Header="Genres"
                 MinWidth="100"
-                Binding="{Binding GenresAsString}"
+                Binding="{Binding Genre}"
                 Width="*"/>
             <DataGridTemplateColumn>
                 <DataGridTemplateColumn.CellTemplate>

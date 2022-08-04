@@ -11,24 +11,19 @@ namespace BookStore.Client.ViewModel.CustomerViewModel
     {
         private UserControl currentContent;
         public UserControl CurrentContent { get => currentContent; set => Set(ref currentContent, value); }
+
         public RelayCommand ReturnCommand { get; set; }
         public RelayCommand PurchaseBooksCommand { get; set; }
         public RelayCommand PurchaseJournalsCommand { get; set; }
         public RelayCommand ViewShoppingCartCommand { get; set; }
+
         public CustomerMainViewModel()
         {
-            ReturnCommand = new RelayCommand(Return);
-            PurchaseBooksCommand = new RelayCommand(PurchaseBooks);
-            PurchaseJournalsCommand = new RelayCommand(PurchaseJournals);
-            ViewShoppingCartCommand = new RelayCommand(ViewShoppingCart);
+            ReturnCommand = new RelayCommand(() => MessengerInstance.Send<UserControl>(new PrimaryView()));
+
+            PurchaseBooksCommand = new RelayCommand(() => CurrentContent = new PurchaseBooksView());
+            PurchaseJournalsCommand = new RelayCommand(() => CurrentContent = new PurchaseJournalsView());
+            ViewShoppingCartCommand = new RelayCommand(() => CurrentContent = new ShoppingCartView());
         }
-        private void ViewShoppingCart()
-        {
-            MessengerInstance.Send<bool>(true, "cart");
-            CurrentContent = new ShoppingCartView();
-        }
-        private void PurchaseJournals() => CurrentContent = new PurchaseJournalsView();
-        private void PurchaseBooks() => CurrentContent = new PurchaseBooksView();
-        private void Return() => MessengerInstance.Send<UserControl>(new PrimaryView());
     }
 }

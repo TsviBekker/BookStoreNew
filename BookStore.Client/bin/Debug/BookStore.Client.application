@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="BookStore.Client.exe.manifest" size="10824">
+    <dependentAssembly dependencyType="install" codebase="BookStore.Client.exe.manifest" size="17329">
       <assemblyIdentity name="BookStore.Client.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OUE+c7nNtOtQ1/z4UD+DbmGW6f3YWlqZ+zhPmvXKfso=</dsig:DigestValue>
+        <dsig:DigestValue>EodntpKfbrrv23QYMMgwweRr+Ln5sJz8r1pw3pKlXCQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

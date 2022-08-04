@@ -3,10 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:local="clr-namespace:BookStore.Client.View.ManagerViews"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800"
-             DataContext="{Binding Source={StaticResource Locator}, Path=AddJournals}">
+                                        xmlns:local="clr-namespace:BookStore.Client"
+             xmlns:viewmodels="clr-namespace:BookStore.Client.ViewModel.ManagerViewModel"
+             DataContext="{local:DISource Type=viewmodels:AddJournalsViewModel}">
     <Grid>
         <WrapPanel>
             <StackPanel>
@@ -78,18 +79,16 @@
                               SelectedItem="{Binding Frequency}"
                               Width="150" Margin="5"/>
                 </StackPanel>
-                </StackPanel>
-                <StackPanel>
-                    <Label Content="Genres"
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Genres"
                            Margin="5" 
                            Height="40"
                            Width="150"
                            Style="{StaticResource LabelTheme1}"/>
 
-                    <ContentControl Content="{Binding CustomListBox}"/>
-
-                    <!--<UserControl DataContext="{Binding GenreList}"/>-->
-                </StackPanel>
+                <ContentControl Content="{Binding CustomListBox}"/>
+            </StackPanel>
         </WrapPanel>
     </Grid>
 </UserControl>

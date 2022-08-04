@@ -12,7 +12,6 @@
                 <ResourceDictionary Source="Assets/LightTheme.xaml"/>
                 <ResourceDictionary Source="Assets/Icons.xaml"/>
             </ResourceDictionary.MergedDictionaries>
-            <vm:ViewModelLocator xmlns:vm="clr-namespace:BookStore.Client.ViewModel" x:Key="Locator" d:IsDataSource="True" />
 
         </ResourceDictionary>
     </Application.Resources>

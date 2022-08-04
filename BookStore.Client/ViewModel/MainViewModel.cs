@@ -6,13 +6,14 @@ namespace BookStore.Client.ViewModel
 {
     public class MainViewModel : ViewModelBase
     {
+
         private UserControl currentContent;
         public UserControl CurrentContent { get => currentContent; set => Set(ref currentContent, value); }
+
         public MainViewModel()
         {
             CurrentContent = new PrimaryView();
-            MessengerInstance.Register<UserControl>(this, UpdateContent);
+            MessengerInstance.Register<UserControl>(this, newView => CurrentContent = newView);
         }
-        private void UpdateContent(UserControl newView) => CurrentContent = newView;
     }
 }

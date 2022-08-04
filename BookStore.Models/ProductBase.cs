@@ -1,5 +1,6 @@
 ﻿using BookStore.Data.Interfaces;
 using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace BookStore.Models
 {
@@ -7,6 +8,7 @@ namespace BookStore.Models
     public abstract class ProductBase : IDataEntity
     {
         public int ObjectType { get; set; }
+        [Required]
         public Guid Id { get; internal set; }
         public string Description { get; set; }
         public DateTime PublicationDate { get; set; }

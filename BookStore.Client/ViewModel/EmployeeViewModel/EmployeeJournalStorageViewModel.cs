@@ -1,5 +1,5 @@
-﻿using BookStore.Models;
-using BookStore.Server;
+﻿using BookStore.Service.Context.Models;
+using BookStore.Service.Repositories.JournalRepo;
 using GalaSoft.MvvmLight;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -10,18 +10,12 @@ namespace BookStore.Client.ViewModel.EmployeeViewModel
     {
         public ObservableCollection<Journal> JournalCollection { get; set; }
         public IEnumerable<Journal> Products { get; set; }
-        private ProductsService productsService;
-        public EmployeeJournalStorageViewModel()
+        private readonly IJournalRepository journalRepository;
+
+        public EmployeeJournalStorageViewModel(IJournalRepository journalRepository)
         {
-            productsService = new ProductsService();
-            MessengerInstance.Register<bool>(this, "journal", InitStorage);
-            InitStorage(true);
-        }
-        private void InitStorage(bool b)
-        {
-            if (!b) return;
-            Products = productsService.GetJournals();
-            JournalCollection = new ObservableCollection<Journal>(Products);
+            this.journalRepository = journalRepository;
+            JournalCollection = new ObservableCollection<Journal>(this.journalRepository.GetAll());
         }
     }
 }

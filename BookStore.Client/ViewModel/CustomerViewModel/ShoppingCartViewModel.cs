@@ -1,10 +1,12 @@
-﻿using BookStore.Models;
-using BookStore.Server;
+﻿using BookStore.Service.Context.Models;
+using BookStore.Service.Services.Cart;
+using BookStore.Service.Services.Cart.Checkout;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Command;
 using Prism.Commands;
 using System;
 using System.Collections.ObjectModel;
+using System.Linq;
 using System.Windows;
 
 namespace BookStore.Client.ViewModel.CustomerViewModel
@@ -12,86 +14,85 @@ namespace BookStore.Client.ViewModel.CustomerViewModel
     //shopping cart view model of the customer
     public class ShoppingCartViewModel : ViewModelBase
     {
-        #region PROPERTIES
         private ObservableCollection<ProductBase> cartContent;
         public ObservableCollection<ProductBase> CartContent { get => cartContent; set => Set(ref cartContent, value); }
+
+        private decimal totalPrice;
+        public decimal TotalPrice { get => cart.Total; set => Set(ref totalPrice, value); }
+
+        private decimal discount;
+        public decimal Discount { get => cart.Discount; set => Set(ref discount, value); }
+
         public RelayCommand CheckoutCommand { get; set; }
         public RelayCommand EmptyCartCommand { get; set; }
-        private decimal totalPrice;
-        public decimal TotalPrice { get => ShoppingCart.Instance.TotalPrice; set => Set(ref totalPrice, value); }
-        private decimal discount;
-        public decimal Discount { get => ShoppingCart.Instance.Discount; set => Set(ref discount, value); }
-        private DelegateCommand<ProductBase> removeCommand;
 
-        public DelegateCommand<ProductBase> RemoveCommand => removeCommand ?? (removeCommand = new DelegateCommand<ProductBase>(RemoveFromCart));
+
+        private DelegateCommand<ProductBase> removeCommand;
+        public DelegateCommand<ProductBase> RemoveCommand =>
+            removeCommand ?? (removeCommand = new DelegateCommand<ProductBase>(RemoveFromCart));
+
         public string CrediCardNumber { get; set; }
         public int ExpirationMonth { get; set; }
         public int ExpirationYear { get; set; }
         public int CardCC { get; set; }
-        #endregion
-        public ShoppingCartViewModel()
+
+
+        private readonly ICart cart;
+        private readonly ICheckoutService checkoutService;
+
+        public ShoppingCartViewModel(ICart cart, ICheckoutService checkoutService)
         {
+            this.cart = cart;
+            this.checkoutService = checkoutService;
+
             CheckoutCommand = new RelayCommand(Checkout);
             EmptyCartCommand = new RelayCommand(EmptyCart);
-            MessengerInstance.Register<bool>(this, "cart", InitCart);
-            InitCart(true);
+
+            InitCart();
         }
+
         private void EmptyCart()
         {
-            ShoppingCart.Instance.Empty();
+            cart.Empty();
             CartContent.Clear();
             TotalPrice = 0;
         }
+
         private void Checkout()
         {
-            if (!CreditCardCheck()) return;
-            MessageBox.Show($"Total: {TotalPrice}", "Thanks For Shopping!");
-            EmptyCart();
-            CartContent.Clear();
+            try
+            {
+                if (!cart.ShoppingCart.Any())
+                {
+                    throw new InvalidOperationException("Can't checkout an empty cart.");
+                }
+
+                bool isValid = checkoutService.ValidateCard(CrediCardNumber, ExpirationMonth, ExpirationYear, CardCC);
+
+                if (isValid)
+                {
+                    MessageBox.Show($"Total: {TotalPrice}", "Thanks For Shopping!");
+                    EmptyCart();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, ex.ToString(), MessageBoxButton.OK);
+            }
         }
-        //this method checks the credit card details
-        private bool CreditCardCheck()
-        {
-            if (TotalPrice == 0) //check if cart has items
-            {
-                MessageBox.Show("Cart is empty!");
-                return false;
-            }
-            else if (CrediCardNumber.Length < 10 || CrediCardNumber == null)
-            {
-                MessageBox.Show("Invalid Credit Card Number");
-                return false;
-            }
-            else if ((ExpirationYear == DateTime.Now.Year && ExpirationMonth <= DateTime.Now.Month) || ExpirationYear < DateTime.Now.Year)
-            {
-                MessageBox.Show("Card Is Expired");
-                return false;
-            }
-            else if (ExpirationMonth < 1 || ExpirationMonth > 12)
-            {
-                MessageBox.Show("Invalid Month");
-                return false;
-            }
-            else if (CardCC.ToString().Length < 3)
-            {
-                MessageBox.Show("Invalid CC");
-                return false;
-            }
-            return true;
-        }
+
         private void RemoveFromCart(ProductBase item)
         {
-            ShoppingCart.Instance.Remove(item);
+            cart.Remove(item);
             CartContent.Remove(item);
-            TotalPrice = ShoppingCart.Instance.TotalPrice;
-            Discount = ShoppingCart.Instance.Discount;
+            TotalPrice = cart.Total;
+            Discount = cart.Discount;
         }
-        private void InitCart(bool obj)
+        private void InitCart()
         {
-            if (!obj) return;
-            CartContent = new ObservableCollection<ProductBase>(ShoppingCart.Instance.GetCart());
-            TotalPrice = ShoppingCart.Instance.TotalPrice;
-            Discount = ShoppingCart.Instance.Discount;
+            CartContent = new ObservableCollection<ProductBase>(cart.ShoppingCart);
+            TotalPrice = cart.Total;
+            Discount = cart.Discount;
         }
     }
 }

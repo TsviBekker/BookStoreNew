@@ -12,7 +12,7 @@ namespace BookStore.Server.Managers
         private readonly ICollection<ProductBase> cart;
         public DiscountManager(ICollection<ProductBase> cart) //Dependency Injection
         {
-            this.cart = cart;
+            this.cart    = cart;
         }
         public decimal CalculateDiscount()
         {

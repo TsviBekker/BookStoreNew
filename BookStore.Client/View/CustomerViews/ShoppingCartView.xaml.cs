@@ -21,11 +21,10 @@ namespace BookStore.Client.View.CustomerViews
     /// </summary>
     public partial class ShoppingCartView : UserControl
     {
-        
+
         public ShoppingCartView()
         {
             InitializeComponent();
-            DataContext = new ShoppingCartViewModel();
         }
     }
 }

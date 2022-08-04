@@ -24,7 +24,7 @@ namespace BookStore.Client.View.ManagerViews
         public ManagerStorageView()
         {
             InitializeComponent();
-            DataContext = new BookStorageViewModel();
+            //DataContext = new BookStorageViewModel();
         }
     }
 }

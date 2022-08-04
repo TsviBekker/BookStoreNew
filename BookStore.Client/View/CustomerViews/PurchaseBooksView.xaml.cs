@@ -24,7 +24,6 @@ namespace BookStore.Client.View.CustomerViews
         public PurchaseBooksView()
         {
             InitializeComponent();
-            DataContext = new PurchaseBooksViewModel();
         }
     }
 }

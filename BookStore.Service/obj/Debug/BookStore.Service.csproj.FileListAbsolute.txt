@@ -1,0 +1,17 @@
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.csproj.AssemblyReference.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\BookStore.Service.dll.config
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\BookStore.Service.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\BookStore.Service.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\EntityFramework.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\EntityFramework.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.csproj.CopyComplete
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.dll
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.pdb
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.Migrations.Initial_Code_First_Migration.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.csproj.GenerateResource.cache
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.Migrations.UpdatedGuid_To_Int_ID.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.Migrations.Single_Book_Genre.resources
+C:\Users\Tsviki\OneDrive\שולחן העבודה\BookStore\BookStore.Service\obj\Debug\BookStore.Service.Migrations.Single_Journal_Genre.resources

@@ -50,16 +50,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ShoppingCart.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BookStore.Data\BookStore.Data.csproj">
-      <Project>{B1961BD5-2074-4932-8917-76A386DE046C}</Project>
-      <Name>BookStore.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\BookStore.Models\BookStore.Models.csproj">
-      <Project>{fe72cec2-692f-44c6-86a5-b9f6a15f7b3b}</Project>
-      <Name>BookStore.Models</Name>
-    </ProjectReference>
-  </ItemGroup>
   <ItemGroup />
   <ItemGroup>
     <None Include="app.config" />

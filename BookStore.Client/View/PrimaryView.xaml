@@ -1,7 +1,10 @@
 ﻿<UserControl x:Class="BookStore.Client.View.PrimaryView"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             DataContext="{Binding Source={StaticResource Locator}, Path=PrimaryView}">
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:local="clr-namespace:BookStore.Client"
+             xmlns:viewmodels="clr-namespace:BookStore.Client.ViewModel"
+             DataContext="{local:DISource Type=viewmodels:PrimaryViewModel}">
+    <!--DataContext="{Binding Source={StaticResource Locator}, Path=PrimaryView}">-->
     <UserControl.Resources>
         <Style TargetType="TextBlock">
             <Setter Property="FontSize" Value="30"/>
@@ -32,16 +35,11 @@
             <TextBlock Text="Choose User Type" 
                    Grid.ColumnSpan="2"
                        Foreground="LightSlateGray"/>
-            <TextBlock Foreground="IndianRed"
-                       FontSize="9"
-                       FontWeight="ExtraLight"
-                       VerticalAlignment="Bottom">please make sure that 'products.json' file is in the AppData/Local folder 
-                <LineBreak/>Press Windows Key + R Type 'appdata' in the search and select the 'Local' folder</TextBlock>
             <WrapPanel Grid.Row="1">
-            <Button Content="Customer" Command="{Binding CustomerCommand}"/>
-            <Button Content="Manager" Command="{Binding EmployeeCommand}"/>
-            <Button Content="Employee" Command="{Binding EmployeeCommand}"/>
-        </WrapPanel>
+                <Button Content="Customer" Command="{Binding CustomerCommand}"/>
+                <Button Content="Manager" Command="{Binding EmployeeCommand}"/>
+                <Button Content="Employee" Command="{Binding EmployeeCommand}"/>
+            </WrapPanel>
         </Grid>
         <Grid Grid.Row="1">
             <ContentControl Content="{Binding PasswordView}"/>

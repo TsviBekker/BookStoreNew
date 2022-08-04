@@ -8,7 +8,6 @@ namespace BookStore.Client.View.ManagerViews
         public JournalStorageView()
         {
             InitializeComponent();
-            DataContext = new JournalStorageViewModel();
         }
     }
 }
